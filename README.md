@@ -1,6 +1,6 @@
 # 👁️‍🗨️About Me :
 Hi! I'm Lelcu, I am 18 and a student at cnprsv🇷🇴 and i am passionate about innovating and cyber security.
-I am currently working on ApiAgenda (a digital agenda for beekeepers) and my graph project that no one understands and I'm also prepearing for the cyber security olimpiad
+I am currently working on ApiAgenda (a digital agenda for beekeepers) and I'm also prepearing for the cyber security olimpiad
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_gabisann) 
