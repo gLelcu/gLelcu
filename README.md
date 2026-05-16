@@ -1,5 +1,5 @@
 # 👁️‍🗨️About Me :
-Hi! I'm Lelcu, I am 18 and a student at cnprsv🇷🇴 and i am passionate about innovating and cyber securit
+Hi! I'm Lelcu, I am 18 and a student at cnprsv🇷🇴 and i am passionate about innovating and cyber security
 
 # 💻Tech Stack
 
