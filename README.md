@@ -24,6 +24,8 @@ Hi! I'm Lelcu, I am 18 and a student at cnprsv🇷🇴 and i am passionate about
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
   </a>
 
+
+
   <!-- OS & Environments -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
@@ -31,6 +33,8 @@ Hi! I'm Lelcu, I am 18 and a student at cnprsv🇷🇴 and i am passionate about
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="kali linux" width="40" height="40"/>
   </a>
+
+
 
   <!-- Cybersecurity Tools & Frameworks -->
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
